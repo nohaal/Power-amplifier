@@ -1,0 +1,13 @@
+{
+    decl winInstP, dsnPtr;
+    de_load_design ("CaractAdapt", 0);
+    winInstP = de_create_window(SCHEMATIC_WINDOW, NULL, 30, 30, 1280, 753);
+    dsnPtr = de_load_design("CaractAdapt", 0);
+    if (dsnPtr != NULL && winInstP != NULL)
+    {
+        deutil_file_open_update_window(winInstP, dsnPtr, "CaractAdapt");
+    }
+    api_set_working_cursor();
+    de_open_datadisplay("CaractAdapt.dds", TRUE);
+    api_set_normal_cursor();
+}

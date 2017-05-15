@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<COMPONENTS>
+  <COMPONENT>
+    <NAME>Composant-Transistor</NAME>
+    <VENDOR>C:\Said\ENSAF\TP-ADS\Gmax_prj\networks</VENDOR>
+    <DESCRIPTION>Composant-Transistor</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>
+</LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>Composant</NAME>
+    <VENDOR>C:\Said\ENSAF\TP-ADS\Gmax_prj\networks</VENDOR>
+    <DESCRIPTION>Composant</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>
+</LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>Adaptation-entree</NAME>
+    <VENDOR>C:\Said\FST\Gmax_prj\networks</VENDOR>
+    <DESCRIPTION>Adaptation-entree</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>
+</LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>Adaptation-sortie</NAME>
+    <VENDOR>C:\Said\FST\Gmax_prj\networks</VENDOR>
+    <DESCRIPTION>Adaptation-sortie</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>
+</LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>composant_exam</NAME>
+    <VENDOR>D:\Enseignement\USMBA\ENSA\GTR4\TP_ADS-GTR4\Gmax_prj\networks</VENDOR>
+    <DESCRIPTION>Composant</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>
+</LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>Mazerr</NAME>
+    <VENDOR>C:\users\default\untitled_prj\networks</VENDOR>
+    <DESCRIPTION>Lumped Element Band Pass Filter</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE></LICENSE>
+  </COMPONENT>
+  <COMPONENT>
+    <NAME>Composant_1</NAME>
+    <VENDOR>C:\users\default\exex_prj\networks</VENDOR>
+    <DESCRIPTION>untitled8</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>N/A</LICENSE>
+  </COMPONENT>
+</COMPONENTS>

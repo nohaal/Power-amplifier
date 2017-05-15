@@ -1,0 +1,26 @@
+
+Options ResourceUsage=yes UseNutmegFormat=no TopDesignName="untitled2"
+C:C3  _net92 _net91 C=0.01 pF 
+S_Param:SP1 CalcS=yes CalcY=no CalcZ=no GroupDelayAperture=1e-4 FreqConversion=no FreqConversionPort=1 StatusLevel=2 CalcNoise=no SortNoise=0 BandwidthForNoise=1.0 Hz DevOpPtLevel=0 \
+SweepVar="freq" SweepPlan="SP1_stim" OutputPlan="SP1_Output" 
+
+SweepPlan: SP1_stim Start=1 GHz Stop=10.0 GHz Step=0.5 GHz 
+
+OutputPlan:SP1_Output \
+      Type="Output" \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2
+
+aele Zout=zin(S22,PortZ2);
+aele Yout=yin(S22,PortZ2);
+aele Yin=yin(S11,PortZ1);
+aele Zin=zin(S11,PortZ1);
+Port:Term2  _net92 0 Num=2 Z=50 Ohm Noise=yes 
+Port:Term1  _net91 0 Num=1 Z=50 Ohm Noise=yes 
+#uselib "ckt" , "VCCS"
+VCCS:SRC1  _net91 0 _net92 0 G=1 S T=0.0 nsec R1=1e100 Ohm R2=300 Ohm F=0.0 GHz 
+C:C2  _net92 0 C=0.75 pF 
+C:C1  _net41 0 C=0.75 pF 
+R:R1  _net91 _net41 R=25 Ohm Noise=yes 

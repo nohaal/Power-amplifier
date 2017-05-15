@@ -1,0 +1,607 @@
+1     7.706    0 0
+10    1    "FET_trans"    2    1391072207    0    26    341    0
+20    0    ""    -4251 -3849 10045 2376 1    2 -3 1    1391072172    0    "mil_schematic.prf" "schematic.lay"
+90    "VIEW_LAYER_NUMBER"  1  1 0 `4`
+30    21729468    1    ""    1    2    0    0    27151118    27118246    0    6375 750 90000    0   0   0   0   0   ""   0   ""   0   ""   ""   ""
+30    27102544    1    ""    1    2    25806594    0    27057190    27102348    0    -875 250 90000    0   0   0   0   0   ""   0   ""   0   ""   ""   ""
+30    25590670    1    ""    1    2    25673632    25591710    25652510    25858224    0    2625 -625 90000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25591710    1    ""    2    2    25567756    0    25652510    25852912    0    2625 -1625 -90000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25592306    1    ""    1    2    25669290    25591118    26141958    26171080    0    3750 -375 90000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25591118    1    ""    2    2    12372862    0    26141958    26149936    0    3750 -1375 -90000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25591294    1    ""    1    2    25662766    25567118    25722898    26162068    0    1375 -1500 90000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25567118    1    ""    2    2    26122882    0    25722898    26170352    0    1375 -2500 -90000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25567756    1    ""    1    2    0    0    26113906    25852912    0    2625 -1625 90000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25512722    1    ""    1    2    25635886    25594240    25636238    26150308    0    3250 750 0    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25594240    1    ""    2    2    25684592    0    25636238    26152162    0    3000 750 180000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25662766    1    ""    2    2    0    25674650    26257664    26162068    0    1375 -1250 -90000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25674650    1    ""    1    2    26256804    0    26257664    25977694    0    1375 -250 90000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25669290    1    ""    2    2    0    25635886    25656108    26171080    0    3750 -375 -90000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25635886    1    ""    1    2    25645382    0    25656108    26150308    0    3750 625 90000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    12372862    1    ""    1    2    0    0    25875806    26149936    0    3750 -1375 90000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25648396    1    ""    2    2    21729468    25645382    25661700    27118246    0    5625 750 0    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25645382    1    ""    1    2    0    0    25661700    26150308    0    4625 750 180000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    26122882    1    ""    1    2    0    0    25898140    26170352    0    1375 -2500 90000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    26256804    1    ""    2    2    25635952    25806594    25898210    25977694    0    375 250 0    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25806594    1    ""    1    2    0    0    25898210    27102348    0    -625 250 180000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25684592    1    "drain"    1    1    0    25673632    26177614    26152162    0    2625 750 90000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25673632    1    "source"    3    0    0    25635952    26177614    25858224    0    2625 -250 -90000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+30    25635952    1    "gate"    2    0    0    0    26177614    25977694    0    2125 250 180000    0   0   1   0   0   ""   0   ""   0   ""   ""   ""
+31    25641440    3750 750    1    0    0    0    0
+31    25457808    1375 250    1    0    0    0    0
+32    27087818    1    25648396    1    21729468    0    0    0    ""  0
+60    4    0    2    5625 750 6375 750 1    0    0    0    0
+70    5625 750    6375 750
+32    27057314    1    27102544    1    25806594    0    0    0    ""  0
+60    4    0    2    -875 250 -625 250 1    0    0    0    0
+70    -875 250    -625 250
+32    26347136    1    25590670    1    25673632    0    0    0    ""  0
+60    4    0    2    2625 -625 2625 -250 1    0    0    0    0
+70    2625 -625    2625 -250
+32    25936312    1    25591710    1    25567756    0    0    0    ""  0
+60    4    0    1    2625 -1625 2625 -1625 1    0    0    0    0
+70    2625 -1625
+32    25667368    1    25592306    1    25669290    0    0    0    ""  0
+60    4    0    1    3750 -375 3750 -375 1    0    0    0    0
+70    3750 -375
+32    25664120    1    25591118    1    12372862    0    0    0    ""  0
+60    4    0    1    3750 -1375 3750 -1375 1    0    0    0    0
+70    3750 -1375
+32    25668436    1    25591294    1    25662766    0    0    0    ""  0
+60    4    0    2    1375 -1500 1375 -1250 1    0    0    0    0
+70    1375 -1500    1375 -1250
+32    25675856    1    26122882    1    25567118    0    0    0    ""  0
+60    4    0    1    1375 -2500 1375 -2500 1    0    0    0    0
+70    1375 -2500
+32    25663322    1    25674650    2    25457808    0    0    0    ""  0
+60    4    0    2    1375 -250 1375 250 1    0    0    0    0
+70    1375 -250    1375 250
+32    25723544    1    26256804    2    25457808    0    0    0    ""  0
+60    4    0    2    375 250 1375 250 1    0    0    0    0
+70    1375 250    375 250
+32    25685514    1    25635952    2    25457808    0    0    0    ""  0
+60    4    0    2    1375 250 2125 250 1    0    0    0    0
+70    1375 250    2125 250
+32    25681238    1    25635886    2    25641440    0    0    0    ""  0
+60    4    0    2    3750 625 3750 750 1    0    0    0    0
+70    3750 625    3750 750
+32    25680522    1    25512722    2    25641440    0    0    0    ""  0
+60    4    0    2    3250 750 3750 750 1    0    0    0    0
+70    3750 750    3250 750
+32    25679362    1    25645382    2    25641440    0    0    0    ""  0
+60    4    0    2    3750 750 4625 750 1    0    0    0    0
+70    3750 750    4625 750
+32    25665650    1    25594240    1    25684592    0    0    0    ""  0
+60    4    0    2    2625 750 3000 750 1    0    0    0    0
+70    3000 750    2625 750
+40    4    0    0    0
+50    4    5625 750 6375 750 1    0    0    0    0    0    0    0    0    27087818
+50    4    -875 250 -625 250 1    0    0    0    0    0    0    0    0    27057314
+50    4    2625 -625 2625 -250 1    0    0    0    0    0    0    0    0    26347136
+50    4    2625 -1625 2625 -1625 1    0    0    0    0    0    0    0    0    25936312
+50    4    3750 -375 3750 -375 1    0    0    0    0    0    0    0    0    25667368
+50    4    3750 -1375 3750 -1375 1    0    0    0    0    0    0    0    0    25664120
+50    4    1375 -1500 1375 -1250 1    0    0    0    0    0    0    0    0    25668436
+50    4    1375 -2500 1375 -2500 1    0    0    0    0    0    0    0    0    25675856
+50    4    1375 -250 1375 250 1    0    0    0    0    0    0    0    0    25663322
+50    4    375 250 1375 250 1    0    0    0    0    0    0    0    0    25723544
+50    4    1375 250 2125 250 1    0    0    0    0    0    0    0    0    25685514
+50    4    3750 625 3750 750 1    0    0    0    0    0    0    0    0    25681238
+50    4    3250 750 3750 750 1    0    0    0    0    0    0    0    0    25680522
+50    4    3750 750 4625 750 1    0    0    0    0    0    0    0    0    25679362
+50    4    2625 750 3000 750 1    0    0    0    0    0    0    0    0    25665650
+41    27151118    0    131073    "G5"    "GROUND"    "SYM_Ground"    6250 500 6500 750 1    0 "" 0
+    21729468    0    26    6375 750 -90000 1 1 0 0    0    97    0    0    1391072172    0  ""    6250 500 6500 750 1    0 0 0 0 0    0 0 0 0 0 0
+41    27057190    0    131073    "G4"    "GROUND"    "SYM_Ground"    -1000 0 -750 250 1    0 "" 0
+    27102544    0    25    -875 250 -90000 1 1 0 0    0    97    0    0    1391072170    0  ""    -1000 0 -750 250 1    0 0 0 0 0    0 0 0 0 0 0
+41    27050820    0    0    "DC1"    "DC"    "SYM_DC"    7624 241 9256 1999 1    0 "" 0
+    0    0    21    7625 2000 0 1 1 0 0    0    105    0    0    1391072156    17  ""    7624 1531 8612 1999 1    7833 241 9256 1448 1    0 0 0 0 0 0
+40    6    0    0    0
+50    6    208 -719 455 -552 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -719 0    1    1    0    0    12    0   "Albertus Extra Bold"   `DC`
+40    7    0    0    0
+50    6    208 -927 569 -760 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -927 0    1    2    0    0    12    0   "Albertus Extra Bold"   `DC1`
+40    8    0    0    0
+50    6    208 -1759 823 -1592 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -1759 0    1    3    0    4    12    0   "Albertus Extra Bold"   `Step=1`
+50    6    208 -1551 949 -1384 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -1551 0    1    3    0    3    12    0   "Albertus Extra Bold"   `Stop=20`
+50    6    208 -1343 856 -1176 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -1343 0    1    3    0    2    12    0   "Albertus Extra Bold"   `Start=0`
+50    6    208 -1135 1631 -968 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -1135 0    1    3    0    1    12    0   "Albertus Extra Bold"   `SweepVar="Vds"`
+80    5    "SweepVar"    "StringAndReference"    0    0    ""Vds""    0   0
+80    5    "UseSweepPlan"    "StdForm"    0    0    ""    1   0
+80    5    "SweepPlan"    "StdForm"    0    0    ""    1   0
+80    5    "Start"    "StdForm"    0    0    "0"    0   0
+80    5    "Stop"    "StdForm"    0    0    "20"    0   0
+80    5    "Step"    "StdForm"    0    0    "1"    0   0
+80    5    "Center"    "StdForm"    0    0    ""    1   0
+80    5    "Span"    "StdForm"    0    0    ""    1   0
+80    5    "Lin"    "StdForm"    0    0    ""    1   0
+80    5    "Dec"    "StdForm"    0    0    ""    1   0
+80    5    "Log"    "StdForm"    0    0    ""    1   0
+80    5    "Reverse"    "StdForm"    0    0    ""    1   0
+80    5    "Pt"    "StdForm"    0    0    ""    1   0
+80    5    "Sort"    "StdForm"    0    0    "LINEAR START STEP "    1   0
+80    3    "OutputPlan"    "list"    0    1    ""    1   0
+80    5    "OutputPlan"    "StdForm"    0    0    ""    1   0
+80    6    "UseNodeNestLevel"    "OutputPlan_BooleanYes"    0    0    ""    1   0
+80    5    "NodeNestLevel"    "SingleTextLineInteger"    0    0    "2"    1   0
+80    3    "NodeName"    "list"    0    1    ""    1   0
+80    5    "NodeName"    "StringAndReference"    0    0    ""    1   0
+80    6    "UseEquationNestLevel"    "OutputPlan_BooleanYes"    0    0    ""    1   0
+80    5    "EquationNestLevel"    "SingleTextLineInteger"    0    0    "2"    1   0
+80    3    "EquationName"    "list"    0    1    ""    1   0
+80    5    "EquationName"    "StringAndReference"    0    0    ""    1   0
+80    5    "MaxDeltaV"    "StdForm"    0    0    ""    1   0
+80    5    "MaxIters"    "StdForm"    0    0    "250"    1   0
+80    6    "ConvMode"    "frmConvMode0"    0    0    ""    1   0
+80    5    "StatusLevel"    "StdForm"    0    0    "2"    1   0
+80    6    "DevOpPtLevel"    "DeviceOpNone"    0    0    ""    1   0
+80    5    "UseFiniteDiff"    "StdForm"    0    0    "no"    1   0
+80    5    "ArcMaxStep"    "StdForm"    0    0    "0.0"    1   0
+80    5    "ArcLevelMaxStep"    "StdForm"    0    0    "0.0"    1   0
+80    5    "ArcMinValue"    "StdForm"    0    0    ""    1   0
+80    5    "ArcMaxValue"    "StdForm"    0    0    ""    1   0
+80    5    "MaxStepRatio"    "StdForm"    0    0    "100"    1   0
+80    5    "MaxShrinkage"    "StdForm"    0    0    "1e-5"    1   0
+80    5    "LimitingMode"    "StdForm"    0    0    "0"    1   0
+80    5    "OutputAllSolns"    "StdForm"    0    0    ""    1   0
+80    5    "PrintOpPoint"    "StdForm"    0    0    "no"    1   0
+80    5    "Restart"    "StdForm"    0    0    "1"    1   0
+80    5    "Other"    "OtherForm"    0    0    ""    1   0
+80    6    "UseSavedEquationNestLevel"    "OutputPlan_BooleanYes"    0    0    ""    1   0
+80    5    "SavedEquationNestLevel"    "SingleTextLineInteger"    0    0    "2"    1   0
+80    3    "SavedEquationName"    "list"    0    1    ""    1   0
+80    5    "SavedEquationName"    "StringAndReference"    0    0    ""    1   0
+80    3    "AttachedEquationName"    "list"    0    1    ""    1   0
+80    5    "AttachedEquationName"    "StringAndReference"    0    0    ""    1   0
+80    5    "UseAdvancedSettings"    "StdForm"    0    0    ""    1   0
+80    6    "UseDeviceCurrentNestLevel"    "OutputPlan_BooleanNo"    0    0    ""    1   0
+80    5    "DeviceCurrentNestLevel"    "SingleTextLineInteger"    0    0    "0"    1   0
+80    3    "DeviceCurrentName"    "list"    0    1    ""    1   0
+80    5    "DeviceCurrentName"    "StringAndReference"    0    0    ""    1   0
+80    6    "DeviceCurrentDeviceType"    "All"    0    0    ""    1   0
+80    6    "DeviceCurrentSymSyntax"    "OutputPlan_BooleanYes"    0    0    ""    1   0
+80    6    "UseCurrentNestLevel"    "OutputPlan_BooleanYes"    0    0    ""    1   0
+80    5    "CurrentNestLevel"    "SingleTextLineInteger"    0    0    "999"    1   0
+41    27174310    0    0    "Sweep1"    "ParamSweep"    "SYM_PARAMSWEEP"    -4251 -630 -1196 2376 1    0 "" 0
+    0    0    22    -4250 2375 0 1 1 0 0    0    105    0    0    1391072154    17  ""    -4251 1908 -1196 2376 1    -4042 -630 -1671 1825 1    0 0 0 0 0 0
+40    6    0    0    0
+50    6    208 -717 1190 -550 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -717 0    1    1    0    0    12    0   "Albertus Extra Bold"   `ParamSweep`
+40    7    0    0    0
+50    6    208 -925 816 -758 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -925 0    1    2    0    0    12    0   "Albertus Extra Bold"   `Sweep1`
+40    8    0    0    0
+50    6    208 -3005 996 -2838 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -3005 0    1    3    0    10    12    0   "Albertus Extra Bold"   `Step=0.1`
+50    6    208 -2797 836 -2630 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -2797 0    1    3    0    9    12    0   "Albertus Extra Bold"   `Stop=0`
+50    6    208 -2589 1090 -2422 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -2589 0    1    3    0    8    12    0   "Albertus Extra Bold"   `Start=-3.1`
+50    6    208 -2381 2032 -2214 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -2381 0    1    3    0    7    12    0   "Albertus Extra Bold"   `SimInstanceName[6]=`
+50    6    208 -2173 2032 -2006 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -2173 0    1    3    0    6    12    0   "Albertus Extra Bold"   `SimInstanceName[5]=`
+50    6    208 -1965 2032 -1798 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -1965 0    1    3    0    5    12    0   "Albertus Extra Bold"   `SimInstanceName[4]=`
+50    6    208 -1757 2032 -1590 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -1757 0    1    3    0    4    12    0   "Albertus Extra Bold"   `SimInstanceName[3]=`
+50    6    208 -1549 2032 -1382 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -1549 0    1    3    0    3    12    0   "Albertus Extra Bold"   `SimInstanceName[2]=`
+50    6    208 -1341 2579 -1174 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -1341 0    1    3    0    2    12    0   "Albertus Extra Bold"   `SimInstanceName[1]="DC1"`
+50    6    208 -1133 1624 -966 1    0    0    0    0    0    0    0    0
+62    0    167    9    208 -1133 0    1    3    0    1    12    0   "Albertus Extra Bold"   `SweepVar="Vgs"`
+80    5    "UseSweepPlan"    "StdForm"    0    0    ""    1   0
+80    5    "SweepPlan"    "StringAndReference"    0    0    ""    1   0
+80    5    "SweepVar"    "StringAndReference"    0    0    ""Vgs""    0   0
+80    3    "SimInstanceName"    "list"    0    6    ""    0   0
+80    5    "SimInstanceName"    "StringAndReference"    0    0    ""DC1""    0   0
+80    5    "SimInstanceName"    "StringAndReference"    0    0    ""    0   0
+80    5    "SimInstanceName"    "StringAndReference"    0    0    ""    0   0
+80    5    "SimInstanceName"    "StringAndReference"    0    0    ""    0   0
+80    5    "SimInstanceName"    "StringAndReference"    0    0    ""    0   0
+80    5    "SimInstanceName"    "StringAndReference"    0    0    ""    0   0
+80    5    "StatusLevel"    "StdForm"    0    0    "2"    1   0
+80    5    "RestoreNomValues"    "StdForm"    0    0    ""    1   0
+80    5    "Start"    "StdForm"    0    0    "-3.1"    0   0
+80    5    "Stop"    "StdForm"    0    0    "0"    0   0
+80    5    "Step"    "StdForm"    0    0    "0.1"    0   0
+80    5    "Center"    "StdForm"    0    0    ""    1   0
+80    5    "Span"    "StdForm"    0    0    ""    1   0
+80    5    "Lin"    "StdForm"    0    0    ""    1   0
+80    5    "Dec"    "StdForm"    0    0    ""    1   0
+80    5    "Log"    "StdForm"    0    0    ""    1   0
+80    5    "Reverse"    "StdForm"    0    0    ""    1   0
+80    5    "Pt"    "StdForm"    0    0    ""    1   0
+80    5    "Sort"    "StdForm"    0    0    "LINEAR START STEP"    1   0
+41    27319812    0    1082130434    "VAR1"    "VAR"    "SYM_VAR"    -3671 -2057 -2515 -1266 1    0 "" 0
+    0    0    18    -3500 -1375 90000 1 1 0 0    0    104    0    0    1390867837    17  ""    -3671 -1481 -3346 -1266 1    -3263 -2057 -2515 -1266 1    0 0 0 0 0 0
+40    6    0    0    0
+50    6    237 -58 611 109 1    0    0    0    0    0    0    0    0
+62    0    167    9    237 -58 0    1    1    0    0    12    0   "Albertus Extra Bold"   `VAR`
+40    7    0    0    0
+50    6    237 -266 725 -99 1    0    0    0    0    0    0    0    0
+62    0    167    9    237 -266 0    1    2    0    0    12    0   "Albertus Extra Bold"   `VAR1`
+40    8    0    0    0
+50    6    237 -682 978 -515 1    0    0    0    0    0    0    0    0
+62    0    167    9    237 -682 0    1    3    0    2    12    0   "Albertus Extra Bold"   `Vgs=1.0`
+50    6    237 -474 985 -307 1    0    0    0    0    0    0    0    0
+62    0    167    9    237 -474 0    1    3    0    1    12    0   "Albertus Extra Bold"   `Vds=1.0`
+80    3    "Variable Value"    "list"    0    2    ""    0   0
+80    4    "Variable Value"    "VarFormStdForm"    0    2    ""    0   0
+80    5    ""    "VarNameForm"    0    0    "Vds"    0   0
+80    5    ""    "VarValueForm"    0    0    "1.0"    0   0
+80    4    "Variable Value"    "VarFormStdForm"    0    2    ""    0   0
+80    5    ""    "VarNameForm"    0    0    "Vgs"    0   0
+80    5    ""    "VarValueForm"    0    0    "1.0"    0   0
+41    27316818    0    1082130434    "VAR2"    "VAR"    "SYM_VAR"    7329 -3849 8438 -3266 1    0 "" 0
+    0    0    19    7500 -3375 90000 1 1 0 0    0    105    2    0    1390869047    17  ""    7329 -3481 7654 -3266 1    7737 -3849 8438 -3266 1    0 0 0 0 0 0
+40    6    0    0    0
+50    6    237 -58 611 109 1    0    0    0    0    0    0    0    0
+62    0    167    9    237 -58 0    1    1    0    0    12    0   "Albertus Extra Bold"   `VAR`
+40    7    0    0    0
+50    6    237 -266 725 -99 1    0    0    0    0    0    0    0    0
+62    0    167    9    237 -266 0    1    2    0    0    12    0   "Albertus Extra Bold"   `VAR2`
+40    8    0    0    0
+50    6    237 -474 938 -307 1    0    0    0    0    0    0    0    0
+62    0    167    9    237 -474 0    1    3    0    1    12    0   "Albertus Extra Bold"   `Pin=1.0`
+80    3    "Variable Value"    "list"    0    1    ""    0   0
+80    4    "Variable Value"    "VarFormStdForm"    0    2    ""    0   0
+80    5    ""    "VarNameForm"    0    0    "Pin"    0   0
+80    5    ""    "VarValueForm"    0    0    "1.0"    0   0
+41    27306626    0    0    "HB1"    "HarmonicBalance"    "SYM_HB"    6886 -2803 10045 -629 1    0 "" 0
+    0    0    20    6875 -625 0 1 1 0 0    0    105    2    0    1390401645    17  ""    6886 -1097 10045 -629 1    7095 -2803 8571 -1180 1    0 0 0 0 0 0
+40    6    0    0    0
+50    6    220 -722 1576 -555 1    0    0    0    0    0    0    0    0
+62    0    167    9    220 -722 0    1    1    0    0    12    0   "Albertus Extra Bold"   `HarmonicBalance`
+40    7    0    0    0
+50    6    220 -930 587 -763 1    0    0    0    0    0    0    0    0
+62    0    167    9    220 -930 0    1    2    0    0    12    0   "Albertus Extra Bold"   `HB1`
+40    8    0    0    0
+50    6    220 -2178 1008 -2011 1    0    0    0    0    0    0    0    0
+62    0    167    9    220 -2178 0    1    3    0    6    12    0   "Albertus Extra Bold"   `Step=0.5`
+50    6    220 -1970 961 -1803 1    0    0    0    0    0    0    0    0
+62    0    167    9    220 -1970 0    1    3    0    5    12    0   "Albertus Extra Bold"   `Stop=15`
+50    6    220 -1762 1042 -1595 1    0    0    0    0    0    0    0    0
+62    0    167    9    220 -1762 0    1    3    0    4    12    0   "Albertus Extra Bold"   `Start=-20`
+50    6    220 -1554 1596 -1387 1    0    0    0    0    0    0    0    0
+62    0    167    9    220 -1554 0    1    3    0    3    12    0   "Albertus Extra Bold"   `SweepVar="Pin"`
+50    6    220 -1346 1255 -1179 1    0    0    0    0    0    0    0    0
+62    0    167    9    220 -1346 0    1    3    0    2    12    0   "Albertus Extra Bold"   `Order[1]=3`
+50    6    220 -1138 1696 -971 1    0    0    0    0    0    0    0    0
+62    0    167    9    220 -1138 0    1    3    0    1    12    0   "Albertus Extra Bold"   `Freq[1]=1.8 GHz`
+80    5    "MaxOrder"    "StdForm"    0    0    "4"    1   0
+80    3    "Freq"    "list"    0    1    ""    0   0
+80    5    "Freq"    "StdForm"    0    0    "1.8 GHz"    0   0
+80    3    "Order"    "list"    0    1    ""    0   0
+80    5    "Order"    "StdForm"    0    0    "3"    0   0
+80    5    "StatusLevel"    "StdForm"    0    0    "2"    1   0
+80    5    "FundOversample"    "StdForm"    0    0    ""    1   0
+80    3    "Oversample"    "list"    0    1    ""    1   0
+80    5    "Oversample"    "StdForm"    0    0    ""    1   0
+80    5    "PackFFT"    "StdForm"    0    0    ""    1   0
+80    5    "MaxIters"    "StdForm"    0    0    ""    1   0
+80    5    "GuardThresh"    "StdForm"    0    0    ""    1   0
+80    5    "SamanskiiConstant"    "StdForm"    0    0    ""    1   0
+80    5    "Restart"    "StdForm"    0    0    ""    1   0
+80    5    "ArcLevelMaxStep"    "StdForm"    0    0    "0.0"    1   0
+80    5    "MaxStepRatio"    "StdForm"    0    0    "100"    1   0
+80    5    "MaxShrinkage"    "StdForm"    0    0    "1.0e-5"    1   0
+80    5    "OutputAllSolns"    "StdForm"    0    0    ""    1   0
+80    5    "ArcMaxStep"    "StdForm"    0    0    "0.0"    1   0
+80    5    "ArcMinValue"    "StdForm"    0    0    ""    1   0
+80    5    "ArcMaxValue"    "StdForm"    0    0    ""    1   0
+80    5    "SS_MixerMode"    "StdForm"    0    0    ""    1   0
+80    5    "SS_UseSweepPlan"    "StdForm"    0    0    ""    1   0
+80    5    "SS_Plan"    "StdForm"    0    0    ""    1   0
+80    5    "SS_Start"    "StdForm"    0    0    "1.0 GHz"    1   0
+80    5    "SS_Stop"    "StdForm"    0    0    "10.0 GHz"    1   0
+80    5    "SS_Step"    "StdForm"    0    0    "1.0 GHz"    1   0
+80    5    "SS_Center"    "StdForm"    0    0    ""    1   0
+80    5    "SS_Span"    "StdForm"    0    0    ""    1   0
+80    5    "SS_Lin"    "StdForm"    0    0    ""    1   0
+80    5    "SS_Dec"    "StdForm"    0    0    ""    1   0
+80    5    "SS_Log"    "StdForm"    0    0    ""    1   0
+80    5    "SS_Reverse"    "StdForm"    0    0    ""    1   0
+80    5    "SS_Pt"    "StdForm"    0    0    ""    1   0
+80    5    "SS_Sort"    "StdForm"    0    0    "LINEAR START STEP"    1   0
+80    5    "SS_Freq"    "StdForm"    0    0    ""    1   0
+80    5    "SS_Thresh"    "StdForm"    0    0    ""    1   0
+80    5    "UseAllSS_Freqs"    "StdForm"    0    0    ""    1   0
+80    5    "MergeSS_Freqs"    "StdForm"    0    0    ""    1   0
+80    5    "InputFreq"    "StdForm"    0    0    "noisefreq"    1   0
+80    5    "NLNoiseMode"    "StdForm"    0    0    ""    1   0
+80    5    "NLNoiseUseSweepPlan"    "StdForm"    0    0    ""    1   0
+80    5    "NoiseFreqPlan"    "StdForm"    0    0    ""    1   0
+80    5    "NLNoiseStart"    "StdForm"    0    0    "1.0 GHz"    1   0
+80    5    "NLNoiseStop"    "StdForm"    0    0    "10.0 GHz"    1   0
+80    5    "NLNoiseStep"    "StdForm"    0    0    "1.0 GHz"    1   0
+80    5    "NLNoiseCenter"    "StdForm"    0    0    ""    1   0
+80    5    "NLNoiseSpan"    "StdForm"    0    0    ""    1   0
+80    5    "NLNoiseLin"    "StdForm"    0    0    ""    1   0
+80    5    "NLNoiseDec"    "StdForm"    0    0    ""    1   0
+80    5    "NLNoiseLog"    "StdForm"    0    0    ""    1   0
+80    5    "NLNoiseReverse"    "StdForm"    0    0    ""    1   0
+80    5    "NLNoisePt"    "StdForm"    0    0    ""    1   0
+80    5    "NLNoiseSort"    "StdForm"    0    0    "LINEAR START STEP"    1   0
+80    5    "FreqForNoise"    "StdForm"    0    0    ""    1   0
+80    5    "NoiseInputPort"    "StdForm"    0    0    "1"    1   0
+80    5    "NoiseOutputPort"    "StdForm"    0    0    "2"    1   0
+80    6    "PhaseNoise"    "No"    0    0    ""    1   0
+80    5    "FM_Noise"    "StdForm"    0    0    ""    1   0
+80    3    "NoiseNode"    "list"    0    1    ""    1   0
+80    5    "NoiseNode"    "StdForm"    0    0    ""    1   0
+80    6    "SortNoise"    "NoiseSortOff"    0    0    ""    1   0
+80    5    "NoiseThresh"    "StdForm"    0    0    ""    1   0
+80    5    "IncludePortNoise"    "StdForm"    0    0    "yes"    1   0
+80    5    "NoisyTwoPort"    "StdForm"    0    0    ""    1   0
+80    5    "BandwidthForNoise"    "StdForm"    0    0    "1.0 Hz"    1   0
+80    5    "OutputBudgetIV"    "StdForm"    0    0    ""    1   0
+80    6    "UseKrylov"    "AutoKrylovMode"    0    0    ""    1   0
+80    5    "UseInitialAWHB"    "StdForm"    0    0    ""    1   0
+80    5    "AWHB_WindowSize"    "StdForm"    0    0    ""    1   0
+80    5    "GMRES_Restart"    "StdForm"    0    0    ""    1   0
+80    5    "KrylovUsePacking"    "StdForm"    0    0    ""    1   0
+80    5    "KrylovPackingThresh"    "StdForm"    0    0    ""    1   0
+80    5    "KrylovTightTol"    "StdForm"    0    0    ""    1   0
+80    5    "KrylovLooseTol"    "StdForm"    0    0    ""    1   0
+80    5    "KrylovLooseIters"    "StdForm"    0    0    ""    1   0
+80    5    "KrylovMaxIters"    "StdForm"    0    0    ""    1   0
+80    5    "AvailableRAMsize"    "StdForm"    0    0    ""    1   0
+80    5    "KrylovSS_Tol"    "StdForm"    0    0    ""    1   0
+80    5    "KrylovUseGMRES_Float"    "StdForm"    0    0    ""    1   0
+80    5    "RecalculateWaveforms"    "StdForm"    0    0    ""    1   0
+80    5    "UseCompactFreqMap"    "StdForm"    0    0    ""    1   0
+80    5    "OscMode"    "StdForm"    0    0    ""    1   0
+80    5    "OscPortName"    "StringAndReference"    0    0    ""    1   0
+80    5    "IgnoreOscErrors"    "StdForm"    0    0    ""    1   0
+80    5    "SweepVar"    "StringAndReference"    0    0    ""Pin""    0   0
+80    5    "UseSweepPlan"    "StdForm"    0    0    ""    1   0
+80    5    "SweepPlan"    "StdForm"    0    0    ""    1   0
+80    5    "Start"    "StdForm"    0    0    "-20"    0   0
+80    5    "Stop"    "StdForm"    0    0    "15"    0   0
+80    5    "Step"    "StdForm"    0    0    "0.5"    0   0
+80    5    "Center"    "StdForm"    0    0    ""    1   0
+80    5    "Span"    "StdForm"    0    0    ""    1   0
+80    5    "Lin"    "StdForm"    0    0    ""    1   0
+80    5    "Dec"    "StdForm"    0    0    ""    1   0
+80    5    "Log"    "StdForm"    0    0    ""    1   0
+80    5    "Reverse"    "StdForm"    0    0    ""    1   0
+80    5    "Pt"    "StdForm"    0    0    ""    1   0
+80    5    "Sort"    "StdForm"    0    0    "LINEAR START STEP"    1   0
+80    3    "OutputPlan"    "list"    0    1    ""    1   0
+80    5    "OutputPlan"    "StdForm"    0    0    ""    1   0
+80    6    "UseNodeNestLevel"    "OutputPlan_BooleanYes"    0    0    ""    1   0
+80    5    "NodeNestLevel"    "SingleTextLineInteger"    0    0    "2"    1   0
+80    3    "NodeName"    "list"    0    1    ""    1   0
+80    5    "NodeName"    "StringAndReference"    0    0    ""    1   0
+80    6    "UseEquationNestLevel"    "OutputPlan_BooleanYes"    0    0    ""    1   0
+80    5    "EquationNestLevel"    "SingleTextLineInteger"    0    0    "2"    1   0
+80    3    "EquationName"    "list"    0    1    ""    1   0
+80    5    "EquationName"    "StringAndReference"    0    0    ""    1   0
+80    6    "DevOpPtLevel"    "DeviceOpNone"    0    0    ""    1   0
+80    3    "Noisecon"    "list"    0    1    ""    1   0
+80    5    "Noisecon"    "StdForm"    0    0    ""    1   0
+80    5    "NoiseConMode"    "StdForm"    0    0    ""    1   0
+80    5    "InFile"    "StringAndReference"    0    0    " "    1   0
+80    5    "UseInFile"    "StdForm"    0    0    ""    1   0
+80    5    "OutFile"    "StringAndReference"    0    0    " "    1   0
+80    5    "UseOutFile"    "StdForm"    0    0    ""    1   0
+80    6    "KrylovPrec"    "HBKrylovPrecDCP"    0    0    ""    1   0
+80    6    "ConvMode"    "HBConvModeAuto"    0    0    ""    1   0
+80    5    "Other"    "OtherForm"    0    0    ""    1   0
+80    6    "UseSavedEquationNestLevel"    "OutputPlan_BooleanYes"    0    0    ""    1   0
+80    5    "SavedEquationNestLevel"    "SingleTextLineInteger"    0    0    "2"    1   0
+80    3    "SavedEquationName"    "list"    0    1    ""    1   0
+80    5    "SavedEquationName"    "StringAndReference"    0    0    ""    1   0
+80    3    "AttachedEquationName"    "list"    0    1    ""    1   0
+80    5    "AttachedEquationName"    "StringAndReference"    0    0    ""    1   0
+80    5    "OscUseNodes"    "StdForm"    0    0    "yes"    1   0
+80    5    "OscNodePlus"    "StringAndReference"    0    0    ""    1   0
+80    5    "OscNodeMinus"    "StringAndReference"    0    0    ""    1   0
+80    5    "OscFundIndex"    "StdForm"    0    0    "1"    1   0
+80    5    "OscHarm"    "StdForm"    0    0    "1"    1   0
+80    5    "OscNumOctaves"    "StdForm"    0    0    "2.0"    1   0
+80    5    "OscSteps"    "StdForm"    0    0    "20.0"    1   0
+80    6    "TAHB_Enable"    "TAHBModeAuto"    0    0    ""    1   0
+80    5    "StopTime"    "StdForm"    0    0    ""    1   0
+80    5    "MaxTimeStep"    "StdForm"    0    0    ""    1   0
+80    5    "IV_RelTol"    "StdForm"    0    0    ""    1   0
+80    5    "AddtlTranParamsTAHB"    "TAHBOtherForm"    0    0    ""    1   0
+80    5    "OneToneTranTAHB"    "StdForm"    0    0    "yes"    1   0
+80    5    "OutputTranDataTAHB"    "StdForm"    0    0    ""    1   0
+80    6    "HBAHB_Enable"    "HBAHBModeAuto"    0    0    ""    1   0
+80    6    "MaxItersRobust"    "Yes"    0    0    ""    1   0
+80    6    "MaxItersFast"    "No"    0    0    ""    1   0
+80    5    "MaxItersCustom"    "StdForm"    0    0    ""    1   0
+80    6    "SamanskiiConstantFast"    "Yes"    0    0    ""    1   0
+80    6    "SamanskiiConstantRobust"    "No"    0    0    ""    1   0
+80    5    "SamanskiiConstantCustom"    "StdForm"    0    0    ""    1   0
+80    6    "GMRES_RestartRobust"    "Yes"    0    0    ""    1   0
+80    6    "GMRES_RestartLowMemory"    "No"    0    0    ""    1   0
+80    5    "GMRES_RestartCustom"    "StdForm"    0    0    ""    1   0
+80    6    "GuardThreshFast"    "Yes"    0    0    ""    1   0
+80    6    "GuardThreshRobust"    "No"    0    0    ""    1   0
+80    5    "GuardThreshCustom"    "StdForm"    0    0    ""    1   0
+80    5    "SteadyStateMinTime"    "StdForm"    0    0    ""    1   0
+80    6    "UseDeviceCurrentNestLevel"    "OutputPlan_BooleanNo"    0    0    ""    1   0
+80    5    "DeviceCurrentNestLevel"    "SingleTextLineInteger"    0    0    "0"    1   0
+80    3    "DeviceCurrentName"    "list"    0    1    ""    1   0
+80    5    "DeviceCurrentName"    "StringAndReference"    0    0    ""    1   0
+80    6    "DeviceCurrentDeviceType"    "All"    0    0    ""    1   0
+80    6    "DeviceCurrentSymSyntax"    "OutputPlan_BooleanYes"    0    0    ""    1   0
+80    6    "UseCurrentNestLevel"    "OutputPlan_BooleanYes"    0    0    ""    1   0
+80    5    "CurrentNestLevel"    "SingleTextLineInteger"    0    0    "999"    1   0
+41    25652510    0    0    "L1"    "L"    "SYM_L"    2590 -1625 3080 -625 1    0 "" 0
+    25590670    0    16    2625 -625 -90000 1 1 0 0    0    105    0    0    1390868004    17  ""    2590 -1625 2716 -625 1    2799 -1416 3080 -625 1    0 0 0 0 0 0
+40    6    0    0    0
+50    6    174 -167 268 0 1    0    0    0    0    0    0    0    0
+62    0    167    9    174 -167 0    1    1    0    0    12    0   "Albertus Extra Bold"   `L`
+40    7    0    0    0
+50    6    174 -375 381 -208 1    0    0    0    0    0    0    0    0
+62    0    167    9    174 -375 0    1    2    0    0    12    0   "Albertus Extra Bold"   `L1`
+40    8    0    0    0
+50    6    174 -791 455 -624 1    0    0    0    0    0    0    0    0
+62    0    167    9    174 -791 0    1    3    0    2    12    0   "Albertus Extra Bold"   `R=`
+50    6    174 -583 428 -416 1    0    0    0    0    0    0    0    0
+62    0    167    9    174 -583 0    1    3    0    1    12    0   "Albertus Extra Bold"   `L=`
+80    5    "L"    "StdForm"    0    0    ""    0   0
+80    5    "R"    "StdForm"    0    0    ""    0   0
+80    5    "Temp"    "StdForm"    0    0    ""    1   0
+80    5    "Trise"    "StdForm"    0    0    ""    1   0
+80    5    "Tnom"    "StdForm"    0    0    ""    1   0
+80    5    "TC1"    "StdForm"    0    0    ""    1   0
+80    5    "TC2"    "StdForm"    0    0    ""    1   0
+80    5    "InitCond"    "StdForm"    0    0    ""    1   0
+80    6    "Noise"    "Yes"    0    0    ""    1   0
+80    5    "Model"    "StdForm"    0    0    ""    1   0
+80    5    "_M"    "StdForm"    0    0    ""    1   0
+41    26141958    0    0    "Vds"    "V_DC"    "SYM_V_DC"    3574 -1375 4912 -375 1    0 "" 0
+    25592306    0    11    3750 -375 -90000 1 1 0 0    0    105    0    0    1390867849    17  ""    3574 -1375 3874 -375 1    3957 -958 4912 -375 1    0 0 0 0 0 0
+40    6    0    0    0
+50    6    207 -167 661 0 1    0    0    0    0    0    0    0    0
+62    0    167    9    207 -167 0    1    1    0    0    12    0   "Albertus Extra Bold"   `V_DC`
+40    7    0    0    0
+50    6    207 -375 508 -208 1    0    0    0    0    0    0    0    0
+62    0    167    9    207 -375 0    1    2    0    0    12    0   "Albertus Extra Bold"   `Vds`
+40    8    0    0    0
+50    6    207 -583 1162 -416 1    0    0    0    0    0    0    0    0
+62    0    167    9    207 -583 0    1    3    0    1    12    0   "Albertus Extra Bold"   `Vdc=Vds V`
+80    5    "Vdc"    "StdForm"    0    0    "Vds V"    0   0
+80    5    "Vac"    "StdForm"    0    0    ""    1   0
+80    6    "SaveCurrent"    "y_n1"    0    0    ""    1   0
+41    25722898    0    0    "Vgs"    "V_DC"    "SYM_V_DC"    1199 -2500 2531 -1500 1    0 "" 0
+    25591294    0    10    1375 -1500 -90000 1 1 0 0    0    105    0    0    1390867845    17  ""    1199 -2500 1499 -1500 1    1582 -2083 2531 -1500 1    0 0 0 0 0 0
+40    6    0    0    0
+50    6    207 -167 661 0 1    0    0    0    0    0    0    0    0
+62    0    167    9    207 -167 0    1    1    0    0    12    0   "Albertus Extra Bold"   `V_DC`
+40    7    0    0    0
+50    6    207 -375 501 -208 1    0    0    0    0    0    0    0    0
+62    0    167    9    207 -375 0    1    2    0    0    12    0   "Albertus Extra Bold"   `Vgs`
+40    8    0    0    0
+50    6    207 -583 1156 -416 1    0    0    0    0    0    0    0    0
+62    0    167    9    207 -583 0    1    3    0    1    12    0   "Albertus Extra Bold"   `Vdc=Vgs V`
+80    5    "Vdc"    "StdForm"    0    0    "Vgs V"    0   0
+80    5    "Vac"    "StdForm"    0    0    ""    1   0
+80    6    "SaveCurrent"    "y_n1"    0    0    ""    1   0
+41    26113906    0    131073    "G3"    "GROUND"    "SYM_Ground"    2500 -1875 2750 -1625 1    0 "" 0
+    25567756    0    17    2625 -1625 -90000 1 1 0 0    0    97    0    0    1389869259    0  ""    2500 -1875 2750 -1625 1    0 0 0 0 0    0 0 0 0 0 0
+41    25636238    0    0    "Ids"    "I_Probe"    "SYM_CProbe"    2875 292 3699 1500 1    0 "" 0
+    25512722    0    13    3250 750 0 1 1 0 1    0    105    0    0    1389873678    17  ""    2875 750 3375 1500 1    3084 292 3699 667 1    0 0 0 0 0 0
+40    6    0    0    0
+50    6    -166 -250 449 -83 1    0    0    0    0    0    0    0    0
+62    0    167    9    -166 -250 0    1    1    0    0    12    0   "Albertus Extra Bold"   `I_Probe`
+40    7    0    0    0
+50    6    -166 -458 74 -291 1    0    0    0    0    0    0    0    0
+62    0    167    9    -166 -458 0    1    2    0    0    12    0   "Albertus Extra Bold"   `Ids`
+80    5    "Mode"    "StdForm"    0    0    "0"    1   0
+80    5    "C"    "StdForm"    0    0    ""    1   0
+80    5    "L"    "StdForm"    0    0    ""    1   0
+80    5    "Gain"    "StdForm"    0    0    ""    1   0
+80    6    "SaveCurrent"    "Yes"    0    0    ""    1   0
+80    5    "wImax"    "StdForm"    0    0    ""    1   0
+41    26257664    0    0    "DC_Feed1"    "DC_Feed"    "SYM_DC_Feed"    1125 -1250 2516 -250 1    0 "" 0
+    25662766    0    12    1375 -250 -90000 1 1 0 0    0    97    0    0    1389868991    17  ""    1125 -1250 1625 -250 1    1708 -625 2516 -250 1    0 0 0 0 0 0
+40    6    0    0    0
+50    6    333 -167 1028 0 1    0    0    0    0    0    0    0    0
+62    0    167    9    333 -167 0    1    1    0    0    12    0   "Albertus Extra Bold"   `DC_Feed`
+40    7    0    0    0
+50    6    333 -375 1141 -208 1    0    0    0    0    0    0    0    0
+62    0    167    9    333 -375 0    1    2    0    0    12    0   "Albertus Extra Bold"   `DC_Feed1`
+80    5    "Mode"    "StdForm"    0    0    "-1"    1   0
+80    5    "C"    "StdForm"    0    0    ""    1   0
+80    5    "L"    "StdForm"    0    0    ""    1   0
+80    5    "Gain"    "StdForm"    0    0    ""    1   0
+80    5    "wImax"    "StdForm"    0    0    ""    1   0
+41    25656108    0    0    "DC_Feed2"    "DC_Feed"    "SYM_DC_Feed"    3500 -375 4891 625 1    0 "" 0
+    25669290    0    8    3750 625 -90000 1 1 0 0    0    97    0    0    1389868991    17  ""    3500 -375 4000 625 1    4083 250 4891 625 1    0 0 0 0 0 0
+40    6    0    0    0
+50    6    333 -167 1028 0 1    0    0    0    0    0    0    0    0
+62    0    167    9    333 -167 0    1    1    0    0    12    0   "Albertus Extra Bold"   `DC_Feed`
+40    7    0    0    0
+50    6    333 -375 1141 -208 1    0    0    0    0    0    0    0    0
+62    0    167    9    333 -375 0    1    2    0    0    12    0   "Albertus Extra Bold"   `DC_Feed2`
+80    5    "Mode"    "StdForm"    0    0    "-1"    1   0
+80    5    "C"    "StdForm"    0    0    ""    1   0
+80    5    "L"    "StdForm"    0    0    ""    1   0
+80    5    "Gain"    "StdForm"    0    0    ""    1   0
+80    5    "wImax"    "StdForm"    0    0    ""    1   0
+41    25875806    0    131073    "G2"    "GROUND"    "SYM_Ground"    3625 -1625 3875 -1375 1    0 "" 0
+    12372862    0    7    3750 -1375 -90000 1 1 0 0    0    97    0    0    1389869124    0  ""    3625 -1625 3875 -1375 1    0 0 0 0 0    0 0 0 0 0 0
+41    25661700    0    0    "DC_Block2"    "DC_Block"    "SYM_DC_Block"    4625 42 5729 1000 1    0 "" 0
+    25648396    0    6    4625 750 0 1 1 0 0    0    97    0    0    1389869036    17  ""    4625 500 5625 1000 1    4834 42 5729 417 1    0 0 0 0 0 0
+40    6    0    0    0
+50    6    209 -500 991 -333 1    0    0    0    0    0    0    0    0
+62    0    167    9    209 -500 0    1    1    0    0    12    0   "Albertus Extra Bold"   `DC_Block`
+40    7    0    0    0
+50    6    209 -708 1104 -541 1    0    0    0    0    0    0    0    0
+62    0    167    9    209 -708 0    1    2    0    0    12    0   "Albertus Extra Bold"   `DC_Block2`
+80    5    "Mode"    "StdForm"    0    0    "1"    1   0
+80    5    "C"    "StdForm"    0    0    ""    1   0
+80    5    "L"    "StdForm"    0    0    ""    1   0
+80    5    "Gain"    "StdForm"    0    0    ""    1   0
+80    5    "wImax"    "StdForm"    0    0    ""    1   0
+41    25898140    0    131073    "G1"    "GROUND"    "SYM_Ground"    1250 -2750 1500 -2500 1    0 "" 0
+    26122882    0    5    1375 -2500 -90000 1 1 0 0    0    97    0    0    1389869124    0  ""    1250 -2750 1500 -2500 1    0 0 0 0 0    0 0 0 0 0 0
+41    25898210    0    0    "DC_Block1"    "DC_Block"    "SYM_DC_Block"    -625 -458 479 500 1    0 "" 0
+    26256804    0    4    -625 250 0 1 1 0 0    0    97    0    0    1389869036    17  ""    -625 0 375 500 1    -416 -458 479 -83 1    0 0 0 0 0 0
+40    6    0    0    0
+50    6    209 -500 991 -333 1    0    0    0    0    0    0    0    0
+62    0    167    9    209 -500 0    1    1    0    0    12    0   "Albertus Extra Bold"   `DC_Block`
+40    7    0    0    0
+50    6    209 -708 1104 -541 1    0    0    0    0    0    0    0    0
+62    0    167    9    209 -708 0    1    2    0    0    12    0   "Albertus Extra Bold"   `DC_Block1`
+80    5    "Mode"    "StdForm"    0    0    "1"    1   0
+80    5    "C"    "StdForm"    0    0    ""    1   0
+80    5    "L"    "StdForm"    0    0    ""    1   0
+80    5    "Gain"    "StdForm"    0    0    ""    1   0
+80    5    "wImax"    "StdForm"    0    0    ""    1   0
+41    26177614    0    1073741824    "A1"    "cf_nec_NE900200_19930730"    "SYM_GAASN"    2125 -731 4812 750 1    0 "DIE" 0
+    25684592    0    3    2125 250 0 1 1 0 0    0    97    0    0    1389863518    17  ""    2125 -273 2765 750 1    2334 -731 4812 -356 1    0 0 0 0 0 0
+40    6    0    0    0
+50    6    209 -773 2687 -606 1    0    0    0    0    0    0    0    0
+62    0    167    9    209 -773 0    1    1    0    0    12    0   "Albertus Extra Bold"   `cf_nec_NE900200_19930730`
+40    7    0    0    0
+50    6    209 -981 449 -814 1    0    0    0    0    0    0    0    0
+62    0    167    9    209 -981 0    1    2    0    0    12    0   "Albertus Extra Bold"   `A1`
+43    27118246    0    ""    25648396    0    ""   0
+43    27102348    0    ""    27102544    0    ""   0
+43    25852912    0    ""    25591710    0    ""   0
+43    25858224    0    ""    25590670    63    ""   0
+43    26149936    0    ""    25591118    0    ""   0
+43    26171080    0    ""    25592306    62    ""   0
+43    26170352    0    ""    25567118    0    ""   0
+43    26162068    0    ""    25591294    61    ""   0
+43    26152162    0    ""    25594240    24    ""   0
+43    26150308    0    ""    25512722    23    ""   0
+43    25977694    0    ""    25674650    21    ""   0
+44    0    -250    1000    250    1    0    0
+40    11    0    0    0
+50    2    750 0 1000 0 1    0    0    0    0    0    0    0    0
+90    "line_thickness_prop"  1  1 0 `2`
+60    4    0    2    750 0 1000 0 1    0    0    0    0
+70    750 0    1000 0
+50    2    0 0 250 0 1    0    0    0    0    0    0    0    0
+90    "line_thickness_prop"  1  1 0 `2`
+60    4    0    2    0 0 250 0 1    0    0    0    0
+70    250 0    0 0
+50    7    275 -225 725 225 1    0    0    0    0    0    0    0    0
+90    "line_thickness_prop"  1  1 0 `1`
+50    7    250 -250 750 250 1    0    0    0    0    0    0    0    0
+90    "line_thickness_prop"  1  1 0 `2`
+40    20    0    0    0
+50    6    678 -35 725 34 1    0    0    0    0    0    0    0    0
+62    0    69    34    725 0 0    1    0    0    0    5    0   "Albertus Extra Bold"   `2`
+50    6    275 -35 322 34 1    0    0    0    0    0    0    0    0
+62    0    69    10    275 0 0    1    0    0    0    5    0   "Albertus Extra Bold"   `1`
+42    18559506    2    "P1"    1    2    0    0 0 180000    0    0   ""
+42    18471722    2    "P2"    2    2    0    1000 0 0    0    0   ""
+21
+20    1    ""    0 0 0 0 0    1 -4 1    0    0    "mil_layout.prf" "layout.lay"
+90    "AFS_STATE"  3  1 0 `0 25 1 0 0.000000 0.000000 GHz GHz uninit 0 ./localhost 0 Presentation1 1 0`
+44    0    0    0    0    0    0    0
+21
